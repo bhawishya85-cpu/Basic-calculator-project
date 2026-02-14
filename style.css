@@ -33,7 +33,7 @@ body {
     height: 90px;
     border-radius: 15px;
     border: none;
-    font-size: 80px;
+    font-size: 30px;
     padding: 12px;
     text-align: right;
     background: rgba(0,0,0,0.6);
@@ -107,3 +107,4 @@ button:nth-child(2) {
         font-size: 23px;
     }
 }
+
